@@ -1,0 +1,1 @@
+&copy; Mi clase programación en internet 2022
